@@ -3,9 +3,8 @@
 It's a website that generate password randomly as per users password length
 
 <br>
-<br>
 
-## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://omi-password-generator.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
